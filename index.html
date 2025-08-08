@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="es">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -289,6 +289,43 @@
             color: #666;
             font-weight: 500;
         }
+
+        /* Trusted By Section */
+        .trusted-by {
+            padding: 3rem 0;
+            text-align: center;
+        }
+
+        .trusted-by h3 {
+            font-size: 1.2rem;
+            color: #666;
+            margin-bottom: 1.5rem;
+            font-weight: 500;
+        }
+
+        .clients-grid {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 3rem;
+            flex-wrap: wrap;
+        }
+
+        .client-logo {
+            font-size: 1.1rem;
+            font-weight: 600;
+            color: #333;
+            padding: 0.5rem 1.5rem;
+            background: white;
+            border-radius: 25px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+            transition: all 0.3s ease;
+        }
+
+        .client-logo:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 5px 20px rgba(0, 0, 0, 0.15);
+        }
         
         /* Skills Section */
         .skills-grid {
@@ -500,6 +537,15 @@
                 grid-template-columns: 1fr;
                 gap: 2rem;
             }
+
+            .clients-grid {
+                gap: 1rem;
+            }
+
+            .client-logo {
+                font-size: 0.9rem;
+                padding: 0.4rem 1rem;
+            }
             
             .timeline::before {
                 left: 20px;
@@ -545,10 +591,10 @@
             <div class="nav-container">
                 <a href="#" class="nav-brand">Carlos Hernández</a>
                 <ul class="nav-links">
-                    <li><a href="#about">Acerca</a></li>
-                    <li><a href="#skills">Especialidades</a></li>
-                    <li><a href="#experience">Experiencia</a></li>
-                    <li><a href="#contact">Contacto</a></li>
+                    <li><a href="#about">About</a></li>
+                    <li><a href="#skills">Expertise</a></li>
+                    <li><a href="#experience">Experience</a></li>
+                    <li><a href="#contact">Contact</a></li>
                 </ul>
             </div>
         </div>
@@ -560,10 +606,10 @@
         <div class="hero-content">
             <h1>Carlos Hernández</h1>
             <p class="subtitle">AI & Cloud Architecture Leader</p>
-            <p class="tagline">Transformando empresas a través de arquitecturas inteligentes y soluciones cloud-native escalables</p>
+            <p class="tagline">Transforming enterprises through intelligent architectures and scalable cloud-native solutions</p>
             <div class="cta-buttons">
-                <a href="#about" class="btn btn-primary">Conoce mi trabajo</a>
-                <a href="#contact" class="btn btn-secondary">Conectemos</a>
+                <a href="#about" class="btn btn-primary">Discover My Work</a>
+                <a href="#contact" class="btn btn-secondary">Let's Connect</a>
             </div>
         </div>
     </section>
@@ -571,29 +617,41 @@
     <!-- About Section -->
     <section class="section about" id="about">
         <div class="container">
-            <h2 class="section-title fade-in">Sobre mí</h2>
+            <h2 class="section-title fade-in">About Me</h2>
             <div class="about-content">
                 <div class="about-text fade-in">
-                    <p>Con más de 20 años liderando transformación digital, me especializo en arquitecturas cloud-native e inteligencia artificial a escala empresarial. He dirigido equipos multidisciplinarios construyendo sistemas que sirven a cientos de miles de usuarios en sectores altamente regulados.</p>
+                    <p>With over 20 years leading digital transformation, I specialize in enterprise-scale cloud-native architectures and artificial intelligence. I've directed multidisciplinary teams building systems that serve hundreds of thousands of users in highly regulated industries.</p>
                     
-                    <p>Mi pasión está en diseñar soluciones que no solo resuelven problemas técnicos complejos, sino que impulsan el crecimiento del negocio. Desde sistemas financieros procesando millones de transacciones hasta plataformas de IA generativa, creo arquitecturas que combinan rendimiento, seguridad y escalabilidad.</p>
+                    <p>My passion lies in designing solutions that don't just solve complex technical problems, but drive business growth. From financial systems processing millions of transactions to generative AI platforms, I create architectures that combine performance, security, and scalability.</p>
+
+                    <div class="trusted-by">
+                        <h3>Trusted by industry leaders</h3>
+                        <div class="clients-grid">
+                            <div class="client-logo">Ocesa</div>
+                            <div class="client-logo">Ticketmaster</div>
+                            <div class="client-logo">Banamex</div>
+                            <div class="client-logo">Take Two</div>
+                            <div class="client-logo">Dentegra</div>
+                            <div class="client-logo">Multiple StartUps</div>
+                        </div>
+                    </div>
                 </div>
                 <div class="highlight-stats fade-in">
                     <div class="stat">
                         <span class="stat-number">20+</span>
-                        <span class="stat-label">Años de experiencia</span>
+                        <span class="stat-label">Years Experience</span>
                     </div>
                     <div class="stat">
                         <span class="stat-number">20</span>
-                        <span class="stat-label">Profesionales liderados</span>
+                        <span class="stat-label">Team Members Led</span>
                     </div>
                     <div class="stat">
                         <span class="stat-number">100K+</span>
-                        <span class="stat-label">Usuarios impactados</span>
+                        <span class="stat-label">Users Impacted</span>
                     </div>
                     <div class="stat">
                         <span class="stat-number">3</span>
-                        <span class="stat-label">Países atendidos</span>
+                        <span class="stat-label">Countries Served</span>
                     </div>
                 </div>
             </div>
@@ -603,10 +661,10 @@
     <!-- Skills Section -->
     <section class="section skills" id="skills">
         <div class="container">
-            <h2 class="section-title fade-in">Especialidades</h2>
+            <h2 class="section-title fade-in">Expertise</h2>
             <div class="skills-grid">
                 <div class="skill-category fade-in">
-                    <h3><span class="skill-icon">AI</span>Inteligencia Artificial</h3>
+                    <h3><span class="skill-icon">AI</span>Artificial Intelligence</h3>
                     <div class="skills-list">
                         <span class="skill-tag">LangChain</span>
                         <span class="skill-tag">AWS Bedrock</span>
@@ -629,7 +687,7 @@
                 </div>
                 
                 <div class="skill-category fade-in">
-                    <h3><span class="skill-icon">⚡</span>Desarrollo & DevOps</h3>
+                    <h3><span class="skill-icon">⚡</span>Development & DevOps</h3>
                     <div class="skills-list">
                         <span class="skill-tag">Java</span>
                         <span class="skill-tag">Python</span>
@@ -641,7 +699,7 @@
                 </div>
                 
                 <div class="skill-category fade-in">
-                    <h3><span class="skill-icon">🛡</span>Seguridad & Compliance</h3>
+                    <h3><span class="skill-icon">🛡</span>Security & Compliance</h3>
                     <div class="skills-list">
                         <span class="skill-tag">HIPAA</span>
                         <span class="skill-tag">SOX</span>
@@ -657,34 +715,34 @@
     <!-- Experience Section -->
     <section class="section experience" id="experience">
         <div class="container">
-            <h2 class="section-title fade-in">Experiencia Clave</h2>
+            <h2 class="section-title fade-in">Key Experience</h2>
             <div class="timeline">
                 <div class="timeline-item fade-in">
-                    <div class="timeline-date">Jul 2024 - Presente</div>
+                    <div class="timeline-date">Jul 2024 - Present</div>
                     <div class="timeline-title">AI Product Development Leader</div>
-                    <div class="timeline-company">Technogi</div>
-                    <p>Liderando el desarrollo de productos de IA con LangChain y AWS Bedrock, arquitecturando soluciones inteligentes que mejoran la experiencia del cliente y la eficiencia operacional.</p>
+                    <div class="timeline-company">Leading Technology Company</div>
+                    <p>Leading end-to-end AI product development using LangChain and AWS Bedrock, architecting intelligent solutions that enhance customer experience and operational efficiency for enterprise clients.</p>
                 </div>
                 
                 <div class="timeline-item fade-in">
                     <div class="timeline-date">Jul 2022 - 2024</div>
                     <div class="timeline-title">Digital Transformation & Cloud Architecture</div>
-                    <div class="timeline-company">Technogi</div>
-                    <p>Arquitecté soluciones cloud-native para ISVs y SMBs mexicanas, implementando estrategias de modernización que mejoraron significativamente el rendimiento y confiabilidad de sistemas.</p>
+                    <div class="timeline-company">Technology Consulting</div>
+                    <p>Architected cloud-native solutions for Mexican ISVs and SMBs, implementing modernization strategies that significantly improved system performance and reliability through containerization and automation.</p>
                 </div>
                 
                 <div class="timeline-item fade-in">
                     <div class="timeline-date">Aug 2015 - Jul 2022</div>
                     <div class="timeline-title">VP of Engineering</div>
-                    <div class="timeline-company">Technogi</div>
-                    <p>Lideré una organización de 20 profesionales entregando soluciones empresariales para clientes en México, USA y UK, incluyendo sectores de gambling, fintech y entretenimiento.</p>
+                    <div class="timeline-company">Technology Solutions</div>
+                    <p>Led cross-functional engineering organization of 20 professionals delivering enterprise solutions for clients in Mexico, USA, and UK including online gambling, fintech, and entertainment sectors.</p>
                 </div>
                 
                 <div class="timeline-item fade-in">
                     <div class="timeline-date">Apr 2009 - Jun 2012</div>
                     <div class="timeline-title">Tech Lead</div>
-                    <div class="timeline-company">Dolex Dollar Express</div>
-                    <p>Diseñé integraciones de sistemas financieros conectando sistemas centrales con bancos y canales de liquidación en US, México y Sudamérica, manejando millones de transferencias.</p>
+                    <div class="timeline-company">Financial Services</div>
+                    <p>Designed multiple financial system integrations connecting core systems with various banks and settlement channels across US, Mexico, and South America, handling millions of financial transfers.</p>
                 </div>
             </div>
         </div>
@@ -693,18 +751,13 @@
     <!-- Contact Section -->
     <section class="section contact" id="contact">
         <div class="container">
-            <h2 class="section-title fade-in">¿Listo para transformar tu negocio?</h2>
-            <p class="fade-in" style="font-size: 1.1rem; margin-bottom: 2rem;">Conectemos para discutir cómo puedo ayudarte a escalar y modernizar tu arquitectura tecnológica</p>
+            <h2 class="section-title fade-in">Ready to Transform Your Business?</h2>
+            <p class="fade-in" style="font-size: 1.1rem; margin-bottom: 2rem;">Let's connect to discuss how I can help you scale and modernize your technology architecture</p>
             
             <div class="contact-info">
                 <div class="contact-item fade-in">
                     <div class="contact-icon">📧</div>
-                    <a href="mailto:moguelator@gmail.com">moguelator@gmail.com</a>
-                </div>
-                
-                <div class="contact-item fade-in">
-                    <div class="contact-icon">📱</div>
-                    <a href="tel:+525532235206">+52 55 3223 5206</a>
+                    <a href="mailto:carlos@braian.ai">carlos@braian.ai</a>
                 </div>
                 
                 <div class="contact-item fade-in">
