@@ -1,120 +1,89 @@
 ---
 layout: default
-title: Home
+title: Carlos Hernandez
 ---
 
 # Carlos Hernandez
-## Engineering Leadership | Distributed Systems | Cloud Governance | Platform Architecture
-
-Engineering leader with 20+ years of experience building and operating distributed systems across fintech, insurance, entertainment, and AI platforms. 
-
-I focus on scaling engineering organizations and modernizing enterprise systems with an emphasis on reliability, cost efficiency, and long-term sustainability.
+**Co-Founder & Head of Engineering** — Cloud • AI Agent Platforms • Distributed Systems  
+📍 Mexico City (Remote-friendly) · ✉️ [carlos@braian.ai](mailto:carlos@braian.ai) · 🔗 [GitHub](https://github.com/carlos-technogi)
 
 ---
 
-## Scope of Experience
-
-### Engineering Leadership
-
-- Led engineering organization of ~25 engineers across 5–6 squads
-- Owned hiring, org design, and technical governance
-- Mentored engineering managers and senior engineers
-- Coordinated cross-functional and cross-border teams (Mexico & U.S.)
-- Partnered with executive stakeholders on platform strategy and modernization
-
-My leadership approach prioritizes operational clarity, architectural consistency, and measurable outcomes.
+## Summary
+Co-Founder & Head of Engineering with deep hands-on architecture experience across cloud-native platforms, AI agent systems, and full product delivery for Web + Mobile. I build secure, scalable systems end-to-end (discovery → architecture → implementation → production operations), with a consistent focus on measurable outcomes: reliability, cost efficiency, and adoption.
 
 ---
 
-### Large-Scale Platform Ownership
-
-- Delivered Kubernetes-based customer platform serving 20,000+ users
-- Maintained 99.8% availability over a four-year period
-- Managed production incidents with structured recovery processes
-- Established observability standards using Prometheus, Grafana, and Cloud-native tooling
-
-I operate with reliability and operational maturity as first-class requirements.
+## Selected Impact
+- **99.8% availability** sustained over 4 years (enterprise platform operations)
+- **~65% cloud cost reduction** through architecture + optimization program
+- **65K users** supported over 3 years on large-scale event ecosystem
+- **40K concurrent users** supported on a high-stakes evaluation platform
+- **25% cost reduction in 2 months** via cloud VDI optimization initiative
 
 ---
 
-### Cloud Governance & Cost Management
-
-- Governed 2,500 AWS accounts within enterprise environments
-- Reduced infrastructure costs by 25% through governance redesign
-- Led architectural transformation that reduced AWS spend by ~65% while maintaining availability and data integrity
-
-Experience includes designing scalable governance frameworks, enforcing architectural standards, and aligning cost control with business growth.
-
----
-
-## Enterprise Modernization
-
-Led modernization initiatives across multiple industries, including:
-
-- Monolith-to-microservices decomposition
-- Cloud migration (IIS to AKS / Kubernetes)
-- CI/CD and GitOps enablement
-- Infrastructure as Code (Terraform, CDK, CloudFormation)
-- Multi-tenant SaaS transformations
-- Domain-Driven Design workshops and domain boundary realignment
-- Internal reference architectures and golden path frameworks
-
-Modernization efforts focused not only on migration, but on creating sustainable engineering systems.
+## Core Strengths
+- Enterprise architecture (secure-by-design, single-tenant & multi-tenant patterns)
+- AI agent platforms (RAG, tool calling, policy orchestration, observability)
+- Cloud-native distributed systems (reliability, performance, cost controls)
+- Web + Mobile ecosystems (iOS/Android + backend platforms)
+- Engineering leadership (scaling teams, delivery systems, long-term ops ownership)
 
 ---
 
-## AI Platform Engineering
+## Experience
 
-Currently leading engineering for an enterprise AI Agent Management Platform deployed in on-prem environments.
+### BRAIAN — Co-Founder & Head of Engineering (Nov 2024 – Present)
+- Architected and led delivery of an AI-powered platform with enterprise deployment patterns (including secure single-tenant models).
+- Built an agent-oriented architecture with retrieval workflows, tool integration, policy enforcement, monitoring, and production operations practices.
+- Owned execution end-to-end: product/requirements → architecture → implementation → release → operations.
 
-- ~30 enterprise deployments
-- Enabled measurable business impact, including 25% sales growth in one client environment
-- Supported automation of up to 85% of support operations in select deployments
-- Contributing to AI governance and technical direction at consortium level
-
-Approach emphasizes governance, reliability, and enterprise integration rather than experimentation alone.
+**Focus:** AI agents, platform architecture, security, observability, reliability, delivery leadership.
 
 ---
 
-## Architectural Principles
+### Technogi — VP of Engineering (Jun 2015 – Oct 2024)
+- Led engineering organization growth to ~25 engineers across multiple teams.
+- Oversaw architecture and delivery across web + mobile ecosystems, cloud platforms, and long-running enterprise systems.
+- Established delivery practices and operational ownership for multiple client platforms.
 
-Consistently apply:
-
-- Domain-Driven Design
-- Event-driven and messaging-based systems
-- Cloud-native architecture patterns
-- Observability-first engineering
-- Cost-aware system design
-- Operational resilience as a design constraint
-
-I prioritize systems that scale predictably and operate sustainably over time.
+**Highlights**
+- Delivered high-availability enterprise platforms and long-term operational success.
+- Led modernization and cost optimization programs across cloud environments.
 
 ---
 
-## Industry Programs & Partnerships
-
-- Maintained AWS Partner status
-- Achieved and maintained AWS Service Delivery Program (SDP)
-- Established and managed Heroku partnership
-- Defined and maintained internal architecture standards and delivery frameworks
+### Technogi — Co-Founder & Principal Architect (Jun 2012 – Jun 2015)
+- Designed and delivered high-scale systems across multiple industries (healthcare, entertainment, evaluation/testing, ISV modernization).
+- Led architecture decisions and hands-on implementation for critical platforms.
 
 ---
 
-## Areas of Interest
+## Selected Case Studies
 
-- Engineering Leadership (Platform / Infrastructure)
-- Senior Engineering Management
-- Cloud Governance at Scale
-- Distributed Systems Architecture
-- AI Infrastructure & Enterprise AI Systems
-- Platform Engineering and Developer Experience
+### Dentegra (Healthcare / Insurance) — Enterprise Platform
+- Built and operated platform ecosystem over multiple years.
+- Achieved **~65% cloud cost reduction** and sustained **99.8% availability** over 4 years.
+
+### OCESA (Entertainment) — Event Ecosystem (Web + Mobile)
+- Delivered and operated an event-facing ecosystem.
+- Supported **65K users** over 3 years.
+
+### CENEVAL (Education / Evaluations) — High Concurrency Platform
+- Delivered platform supporting up to **40K concurrent users** under peak load.
+
+---
+
+## Tech (high-level)
+**AI/Agents:** RAG, orchestration, tool calling, policies, monitoring  
+**Cloud:** AWS / Azure / GCP, Kubernetes, Terraform, CI/CD  
+**Backend:** Distributed systems, APIs, event-driven architecture  
+**Observability:** Metrics, logging, tracing, SLOs  
+**Web/Mobile:** Modern web stacks + iOS/Android ecosystems
 
 ---
 
 ## Contact
-
-Open to conversations regarding senior engineering leadership and principal-level technical roles.
-
-LinkedIn: [Add Link]  
-GitHub: [Add Link]  
-Email: [Add Email]
+- Email: [carlos@braian.ai](mailto:carlos@braian.ai)  
+- GitHub: https://github.com/carlos-technogi
