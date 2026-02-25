@@ -5,12 +5,12 @@ description: Co-Founder & Head of Engineering building AI agent platforms, cloud
 
 {% seo %}
 <!--# Carlos Hernandez
-**Co-Founder & Head of Engineering** — Cloud • AI Agent Platforms • Distributed Systems-->
+**Co-Founder & Head of Engineering** — Cloud • AI Agent Platforms • Distributed Systems
 Mexico City (Remote-friendly) · [Email](mailto:carlos@braian.ai) · [GitHub](https://github.com/carlos-technogi)
-
+-->
 ---
 
-## Summary
+<!-- ## Summary -->
 Co-Founder & Head of Engineering with deep hands-on architecture experience across cloud-native platforms, AI agent systems, and full product delivery for Web + Mobile. I build secure, scalable systems end-to-end (discovery → architecture → implementation → production operations), with a consistent focus on measurable outcomes: reliability, cost efficiency, and adoption.
 
 ---
