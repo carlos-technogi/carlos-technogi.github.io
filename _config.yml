@@ -13,6 +13,5 @@ author:
   name: Carlos Hernandez
   email: carlos@braian.ai
 
-Optional:
-  logo: /assets/profile.jpg
+logo: /assets/profile.jpg
 # show_downloads: false
