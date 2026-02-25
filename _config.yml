@@ -1,7 +1,18 @@
 title: Carlos Hernandez
-description: Co-Founder & Head of Engineering — Cloud • AI Agent Platforms • Distributed Systems
+description: Co-Founder & Head of Engineering specializing in AI agent platforms, cloud architecture, and distributed systems.
+url: "https://carlos-technogi.github.io"
+baseurl: ""
+
 theme: jekyll-theme-minimal
 
-# Optional:
-# logo: /assets/profile.jpg
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+author:
+  name: Carlos Hernandez
+  email: carlos@braian.ai
+
+Optional:
+  logo: /assets/profile.jpg
 # show_downloads: false
