@@ -10,7 +10,7 @@ Mexico City (Remote-friendly) · [Email](mailto:carlos@braian.ai) · [GitHub](ht
 -->
 ---
 
-<!-- ## Summary -->
+## Profile
 Co-Founder & Head of Engineering with deep hands-on architecture experience across cloud-native platforms, AI agent systems, and full product delivery for Web + Mobile. I build secure, scalable systems end-to-end (discovery → architecture → implementation → production operations), with a consistent focus on measurable outcomes: reliability, cost efficiency, and adoption.
 
 ---
