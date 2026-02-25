@@ -1,8 +1,9 @@
 ---
-layout: default
-title: Carlos Hernandez
+title: Carlos Hernandez | Head of Engineering | AI & Cloud Architect
+description: Co-Founder & Head of Engineering building AI agent platforms, cloud-native systems, and scalable enterprise architecture.
 ---
 
+{% seo %}
 # Carlos Hernandez
 **Co-Founder & Head of Engineering** — Cloud • AI Agent Platforms • Distributed Systems  
 📍 Mexico City (Remote-friendly) · ✉️ [carlos@braian.ai](mailto:carlos@braian.ai) · 🔗 [GitHub](https://github.com/carlos-technogi)
@@ -87,3 +88,17 @@ Co-Founder & Head of Engineering with deep hands-on architecture experience acro
 ## Contact
 - Email: [carlos@braian.ai](mailto:carlos@braian.ai)  
 - GitHub: https://github.com/carlos-technogi
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Carlos Hernandez",
+  "jobTitle": "Co-Founder & Head of Engineering",
+  "url": "https://carlos-technogi.github.io",
+  "email": "mailto:carlos@braian.ai",
+  "sameAs": [
+    "https://github.com/carlos-technogi"
+  ]
+}
+</script>
