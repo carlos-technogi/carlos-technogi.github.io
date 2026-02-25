@@ -3,11 +3,11 @@ description: Co-Founder & Head of Engineering specializing in AI agent platforms
 url: "https://carlos-technogi.github.io"
 baseurl: ""
 
-# theme: jekyll-theme-minimal
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+theme: jekyll-theme-cayman
+# remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
 plugins:
-  - jekyll-include-cache
+  # - jekyll-include-cache
   - jekyll-seo-tag
   - jekyll-sitemap
 
