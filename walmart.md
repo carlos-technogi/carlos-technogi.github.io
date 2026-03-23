@@ -8,6 +8,7 @@ permalink: /cv/walmart
 
 # Carlos Hernandez  
 **Director of Software Engineering | Domain Engineering Lead | Platform, Cloud & Distributed Systems**
+
 Mexico City, Mexico  
 carlos.hmoguel@gmail.com | (+52) 55 3223 5206  
 
