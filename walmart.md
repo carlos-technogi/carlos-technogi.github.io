@@ -1,6 +1,8 @@
 ---
-layout: jekyll-theme-minimal
-title: Carlos Hernandez Moguel
+layout: cv
+title: Carlos Hernandez
+description: Director of Engineering
+permalink: /cv/
 ---
 
 # Carlos Hernandez  
