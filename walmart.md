@@ -1,10 +1,4 @@
----
-__layout: cv
-title: Carlos Hernandez
-description: Director of Engineering
-permalink: /cv/walmart
-show_header: false
----
+
 
 # Carlos Hernandez  
 **Principal Architect | Cloud-Native Platforms | AI & Distributed Systems**  
