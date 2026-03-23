@@ -7,107 +7,157 @@ permalink: /cv/walmart
 ---
 
 # Carlos Hernandez  
-**Principal Architect | Cloud-Native Platforms | AI & Distributed Systems**  
-Mexico City, Mexico  
-carlos.hmoguel@gmail.com | (+52) 55 3223 5206  
+**Director of Software Engineering | Domain Engineering Lead | Platform, Cloud & Distributed Systems**
 
+---
 
-## EXECUTIVE SUMMARY
+## Professional Summary
 
-Enterprise Principal Architect with 20+ years designing and operating large-scale, high-availability distributed systems across financial services, insurance, healthcare, entertainment, and AI-driven enterprise platforms. Architect of cloud-native ecosystems supporting 100,000+ concurrent users and high-transaction workloads in regulated and globally distributed environments.
+Engineering executive and hands-on architect with 20+ years of experience leading the design, delivery, and operation of large-scale digital platforms across web, mobile, cloud, AI, and integration-heavy environments. Proven track record scaling engineering organizations, leading multi-squad execution, and aligning engineering with customer needs, product priorities, UX/UI, and business goals.
 
-Deep expertise in Kubernetes and serverless architectures, multi-tenant deployment strategies, and advanced observability engineering—spanning infrastructure, data, and business-level telemetry—to ensure resilience and integrity at scale. Recognized for defining reference architectures, mentoring technical talent, and establishing engineering standards that enable multi-squad delivery while achieving significant cost optimization (up to 65%) without compromising reliability.
+Strong background in distributed systems, omnichannel platforms, cloud modernization, DevOps/CI/CD, reliability, cost optimization, and platform evolution for customer-facing and operationally critical systems. Experienced working across Mexico, the US, and the UK in high-scale, cross-functional environments.
 
+---
 
-## PROFESSIONAL EXPERIENCE
+## Core Strengths
 
-### BRAIAN — Head of Engineering | Co-Founder  
-*2024 – Present | Mexico (Remote)*
+- Platform Engineering Leadership  
+- Domain / Platform Engineering  
+- Distributed Systems  
+- Omnichannel Platforms  
+- Systems Integration  
+- Cloud Architecture  
+- DevOps / CI/CD  
+- Technical Governance  
+- Reliability & Operations  
+- KPI-Driven Delivery  
+- Cost Optimization  
+- Multi-Squad Leadership  
+- Product / UX / Engineering Alignment  
+- Modernization Programs  
 
-Principal architect for an enterprise AI agent platform deployed across ~30 customer environments. Designed secure single-tenant deployment patterns and operational guardrails for production AI workloads, enabling omnichannel agent delivery.
+---
 
-- Architected an AI agent platform with RAG, tool orchestration, and policy-driven execution workflows, balancing security isolation, latency, and cost.  
-- Defined cloud-native reference architecture for tenant isolation, secrets management, and secure integrations.  
-- Implemented observability and operational controls for AI workloads (usage telemetry, failure modes, cost visibility, quality monitoring).  
-- Mentored engineers in distributed systems, cloud architecture, and AI platform design while guiding technical decision-making and architectural trade-offs.  
-- Led platform evolution from early versions to production-ready releases aligned with measurable customer outcomes.
+## Professional Experience
 
-**Selected Customer Outcomes**
-- Banyax (Cybersecurity SOC): reduced incident response time 75% (45 → <15 minutes), improved analyst efficiency 5×, supporting monitoring of 22,000+ entities/users.  
-- Ticketopolis (Customer Support): achieved 95% automated resolution, 70% faster response times, enabling 24/7 support without headcount growth.  
-- Ekinplace (Digital Health): increased service capacity 150%, reduced wait time 50%, improved referral precision 50%.  
+### BRAIAN — Co-Founder & Head of Engineering  
+**Mexico (Remote) | Nov 2024 – Present**
 
-### Technogi — Co-Founder | Principal Architect | VP of Engineering  
-*2015 – 2024 | Mexico & UK*
+- Built and evolved a secure, single-tenant AI platform with RAG, tool calling, policy orchestration, and omnichannel delivery across WhatsApp, Instagram, Facebook, web, and APIs.  
+- Lead engineering strategy, architecture, delivery, and platform evolution.  
+- Manage and mentor a growing engineering team while partnering closely with delivery teams and customers.  
+- Align product roadmap with customer needs and market priorities through active technical discovery and stakeholder collaboration.  
+- Own platform monitoring, cost visibility, and operational reliability in production.  
+- Deployed the platform across **30+ companies**, from SMB to enterprise, with measurable business outcomes.  
 
-Led platform architecture and engineering strategy for enterprise modernization initiatives and startup SaaS platforms, collaborating with globally distributed teams across Mexico, US, UK, and South Africa. Designed and led implementation of multi-tenant SaaS systems for Mexican startups, including payment integrations with Stripe.
+---
 
-Defined reference architectures, cloud governance standards, and platform enablement practices adopted across 5–6 squads (~25 engineers), balancing scalability, resilience, and cost efficiency in multi-year production environments.
+### Technogi — VP of Engineering  
+**Remote | Jun 2015 – Oct 2024**
 
-Mentored engineers and technical leads through structured coaching and innovation programs, developing emerging architects and enabling transitions into technical and leadership roles.
+- Scaled the engineering organization from 2–5 developers to **5 teams (~25 engineers)** across backend, web, iOS, and Android.  
+- Led architecture, delivery, and long-term platform operations across multiple large-scale systems.  
+- Maintained strong hands-on involvement (~50%) while driving organizational leadership and execution.  
+- Worked with stakeholders across Mexico, the US, and the UK to align engineering decisions with business priorities.  
+- Actively contributed to UX/UI alignment through stakeholder workshops, design systems, and cross-platform consistency.  
 
-#### **Mobile + Web + Microservices Ecosystem (Dentegra / Delta Dental Mexico)**  
-- Architected and operated a customer-facing ecosystem (iOS/Android, React web, 30+ microservices) on AWS, sustaining **99.8% availability over four years** for **20,000+ active users**.  
-- Led architectural redesign achieving **~65% AWS cost reduction** while maintaining reliability and data integrity.  
-- Established production observability standards and platform enablement practices (CI/CD, infrastructure templates, golden paths).  
+#### Selected Platform Leadership Highlights
 
+**Dentegra (Delta Dental Mexico) — Mobile, Web & Microservices Ecosystem**  
+- Led multi-squad organization across mobile apps, web platform, and **30+ AWS microservices**.  
+- Achieved **99.8% availability over 4 years**.  
+- Reduced cloud costs by **~65%**.  
+- Supported **~20K active users**.  
 
-#### **National Evaluation Platform (CENEVAL)**  
-- Architected and operated a distributed examination platform supporting **40,000+ concurrent users** under high transactional load (15–20 events per user per minute) in a federally regulated environment.  
-- Designed resilient synchronization and integrity mechanisms for high-sensitivity evaluation workflows.  
-- Implemented multi-layer observability including infrastructure, database, event streams, and business-level analytics to detect anomalous patterns.  
+**OCESA — Omnichannel Platform**  
+- Led multi-squad delivery of a mobile + web platform for customer engagement and preference intelligence.  
+- Built on serverless AWS architecture with event-driven recommendation engine.  
+- Supported **65K users over 3 years**.  
 
-#### **Omnichannel Content & Personalization Platform (OCESA / Ticketmaster Ecosystem)**  
-- Architected a cloud-native, serverless-enabled engagement platform designed for **100,000+ concurrent users**, sustaining burst traffic during major event releases.  
-- Designed read-optimized architecture using CDN, multi-layer caching, and AWS Lambda for low-latency delivery.  
-- Implemented event ingestion pipelines powering personalization and recommendation services (Elasticsearch).  
-- Defined clean integration boundaries with external purchase systems.  
+**Ticketmaster — Mobile & Web Platform**  
+- Led platform initiative across backend, web, and mobile systems.  
+- Operated successfully for **2 years**.  
+- Supported **100K+ concurrent users during peak events**.  
 
-#### **Startup SaaS Platforms (including Kladi and other Mexican ventures)**  
-- Designed and led implementation of multi-tenant SaaS platforms with subscription models and Stripe-based payment processing.  
-- Defined domain boundaries, tenant isolation strategies, and CI/CD enablement for scalable growth.  
-- Established cloud-native deployment patterns for secure and repeatable releases.  
+**Rank Interactive — Backoffice & Online Gaming Platforms**  
+- Led **4 squads (20 engineers total)** across backoffice and digital gaming systems.  
+- Managed delivery in a high-scale, consumer-facing, transaction-heavy environment.  
 
-### Technogi — Co-Founder | Principal Architect  
-*2012 – 2015 | Mexico*
+**Restaurantsoft — Cloud Migration & Platform Modernization**  
+- Designed IIS → Azure AKS migration strategy (“golden path”).  
+- Migrated initial workloads and enabled client-led continuation.  
+- Increased deployment frequency from **monthly to daily** via CI/CD implementation.  
 
-- Designed high-concurrency enterprise platforms across financial services and education domains.  
-- Led modernization initiatives transitioning on-prem systems to cloud-native architectures.  
-- Influenced architecture standards and reference frameworks across enterprise clients.  
+**CONTPAQi — VDI Platform**  
+- Re-architected platform to scale beyond **5,000 VDI accounts**.  
+- Achieved **25% cost reduction in 2 months**.  
 
-### Earlier Career — Software Engineer → Technical Lead  
-*2003 – 2012*
+---
 
-- Progressed from Java developer to technical lead, building and supporting production systems.  
-- Led cross-border collaboration between Mexico and US teams.  
-- Established innovation workshops to develop engineers into technical and leadership roles.  
+### Technogi — Co-Founder & Principal Architect  
+**Jun 2012 – Jun 2015**
 
+- Led architecture of distributed systems, cloud migrations, and enterprise integrations.  
 
-## TECHNICAL EXPERTISE
+**CENEVAL National Evaluation Platform**  
+- Designed platform supporting **40K concurrent users**.  
+- Built offline-capable distributed nodes and integrity-focused ledger system.  
 
-**Cloud-Native Platforms:**  
-AWS (EKS, ECS, Lambda, VPC, IAM, CloudWatch), Azure (AKS), Kubernetes-based architectures, serverless design patterns, multi-cloud architectural principles  
+**Kerbal Space Program**  
+- Led migration of support ecosystem to AWS (EC2, RDS, CloudFront).  
 
-**Architecture Patterns:**  
-Microservices, Event-Driven Architecture, Multi-Tenant & Single-Tenant Strategies, High-Availability Distributed Systems, Resilience & Fault Isolation  
+**Ampersand (Grupo Posadas)**  
+- Defined integration patterns for multi-team loyalty ecosystem.  
 
-**Languages & Frameworks:**  
-Java (Spring Boot), Python, NodeJS, TypeScript, C#, React (Next.js), React Native, REST & GraphQL APIs  
+---
 
-**DevOps & Automation:**  
-CI/CD pipelines, Infrastructure as Code, Cloud governance, Platform enablement, Deployment standardization  
+### Dolex — Tech Lead  
+**Jun 2009 – Jun 2012**
 
-**Data & AI Platforms:**  
-Elasticsearch, PostgreSQL, Redis, Stripe integrations, Event ingestion pipelines, RAG architectures, Tool orchestration, Secure AI deployment patterns  
+- Led LATAM settlement integrations for remittance systems with banks and retail partners.  
+- Coordinated cross-border teams (**US: 6 engineers / Mexico: 15 engineers**).  
 
+---
 
-## EDUCATION
+## Selected Impact Highlights
 
-**B.S. in Computer Science and Technology**  
-Tecnológico de Monterrey — 2003  
+- Scaled engineering organization to **~25 engineers across 5 teams**  
+- Led platforms supporting **100K+, 65K, 40K concurrent users**  
+- Delivered **99.8% availability over 4 years**  
+- Reduced cloud costs by **~65%** and **25% in 2 months**  
+- Increased deployment frequency from **monthly to daily**  
+- Deployed platform across **30+ companies** with measurable outcomes  
 
+---
 
-## LANGUAGES
+## Technology Stack
 
-Spanish — Native  
-English — Fluent  
+**Cloud / Platform**  
+AWS (EKS, ECS, CDK, CloudFormation), Azure (AKS), Kubernetes, Terraform  
+
+**DevOps / Delivery**  
+AWS Code*, Azure DevOps, GitHub Actions, Jenkins, Bitbucket Pipelines, CI/CD  
+
+**Architecture**  
+Distributed systems, microservices, serverless, modernization, single-tenant / multi-tenant platforms  
+
+**Backend / Integration**  
+Java, Python, NodeJS, REST APIs, GraphQL, Kafka, Kinesis, Spark, Hazelcast  
+
+**Data / Storage**  
+PostgreSQL, Redis, OpenSearch, DynamoDB, MySQL  
+
+**Web / Mobile**  
+React, NextJS, TypeScript, Svelte, TailwindCSS, iOS, Android  
+
+**Observability**  
+CloudWatch, Grafana, Prometheus, NewRelic  
+
+---
+
+## Languages
+
+- Spanish — Native  
+- English — Advanced  
+
+---
