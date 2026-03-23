@@ -3,7 +3,7 @@ layout: cv
 title: Carlos Hernandez
 description: Director of Engineering
 permalink: /cv/walmart
-#show_header: false
+show_header: false
 ---
 
 # Carlos Hernandez  
