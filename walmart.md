@@ -2,7 +2,7 @@
 layout: cv
 title: Carlos Hernandez
 description: Director of Engineering
-permalink: /cv/
+permalink: /cv/walmart
 show_header: false
 ---
 
