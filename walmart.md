@@ -1,7 +1,6 @@
 ---
 layout: minmal
 title: Carlos Hernandez Moguel
-permalink: /especial/
 ---
 
 # Carlos Hernandez  
