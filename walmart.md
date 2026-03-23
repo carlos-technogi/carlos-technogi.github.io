@@ -8,6 +8,8 @@ permalink: /cv/walmart
 
 # Carlos Hernandez  
 **Director of Software Engineering | Domain Engineering Lead | Platform, Cloud & Distributed Systems**
+Mexico City, Mexico  
+carlos.hmoguel@gmail.com | (+52) 55 3223 5206  
 
 ---
 
@@ -16,8 +18,6 @@ permalink: /cv/walmart
 Engineering executive and hands-on architect with 20+ years of experience leading the design, delivery, and operation of large-scale digital platforms across web, mobile, cloud, AI, and integration-heavy environments. Proven track record scaling engineering organizations, leading multi-squad execution, and aligning engineering with customer needs, product priorities, UX/UI, and business goals.
 
 Strong background in distributed systems, omnichannel platforms, cloud modernization, DevOps/CI/CD, reliability, cost optimization, and platform evolution for customer-facing and operationally critical systems. Experienced working across Mexico, the US, and the UK in high-scale, cross-functional environments.
-
----
 
 ## Core Strengths
 
@@ -36,8 +36,6 @@ Strong background in distributed systems, omnichannel platforms, cloud moderniza
 - Product / UX / Engineering Alignment  
 - Modernization Programs  
 
----
-
 ## Professional Experience
 
 ### BRAIAN — Co-Founder & Head of Engineering  
@@ -49,8 +47,6 @@ Strong background in distributed systems, omnichannel platforms, cloud moderniza
 - Align product roadmap with customer needs and market priorities through active technical discovery and stakeholder collaboration.  
 - Own platform monitoring, cost visibility, and operational reliability in production.  
 - Deployed the platform across **30+ companies**, from SMB to enterprise, with measurable business outcomes.  
-
----
 
 ### Technogi — VP of Engineering  
 **Remote | Jun 2015 – Oct 2024**
@@ -92,8 +88,6 @@ Strong background in distributed systems, omnichannel platforms, cloud moderniza
 - Re-architected platform to scale beyond **5,000 VDI accounts**.  
 - Achieved **25% cost reduction in 2 months**.  
 
----
-
 ### Technogi — Co-Founder & Principal Architect  
 **Jun 2012 – Jun 2015**
 
@@ -109,15 +103,11 @@ Strong background in distributed systems, omnichannel platforms, cloud moderniza
 **Ampersand (Grupo Posadas)**  
 - Defined integration patterns for multi-team loyalty ecosystem.  
 
----
-
 ### Dolex — Tech Lead  
 **Jun 2009 – Jun 2012**
 
 - Led LATAM settlement integrations for remittance systems with banks and retail partners.  
 - Coordinated cross-border teams (**US: 6 engineers / Mexico: 15 engineers**).  
-
----
 
 ## Selected Impact Highlights
 
@@ -127,8 +117,6 @@ Strong background in distributed systems, omnichannel platforms, cloud moderniza
 - Reduced cloud costs by **~65%** and **25% in 2 months**  
 - Increased deployment frequency from **monthly to daily**  
 - Deployed platform across **30+ companies** with measurable outcomes  
-
----
 
 ## Technology Stack
 
@@ -153,11 +141,7 @@ React, NextJS, TypeScript, Svelte, TailwindCSS, iOS, Android
 **Observability**  
 CloudWatch, Grafana, Prometheus, NewRelic  
 
----
-
 ## Languages
 
 - Spanish — Native  
 - English — Advanced  
-
----
