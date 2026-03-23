@@ -1,5 +1,5 @@
 ---
-layout: minmal
+layout: jekyll-theme-minimal
 title: Carlos Hernandez Moguel
 ---
 
