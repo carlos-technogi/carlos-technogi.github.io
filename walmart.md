@@ -3,7 +3,6 @@ layout: cv
 title: Carlos Hernandez
 description: Director of Engineering
 permalink: /cv/
-theme_mode: minimal
 show_header: false
 ---
 
