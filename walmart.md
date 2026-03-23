@@ -1,3 +1,9 @@
+---
+layout: minmal
+title: Carlos Hernandez Moguel
+permalink: /especial/
+---
+
 # Carlos Hernandez  
 **Principal Architect | Cloud-Native Platforms | AI & Distributed Systems**  
 Mexico City, Mexico  
