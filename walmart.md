@@ -12,7 +12,6 @@ show_header: false
 Mexico City, Mexico  
 carlos.hmoguel@gmail.com | (+52) 55 3223 5206  
 
----
 
 ## EXECUTIVE SUMMARY
 
@@ -20,7 +19,6 @@ Enterprise Principal Architect with 20+ years designing and operating large-scal
 
 Deep expertise in Kubernetes and serverless architectures, multi-tenant deployment strategies, and advanced observability engineering—spanning infrastructure, data, and business-level telemetry—to ensure resilience and integrity at scale. Recognized for defining reference architectures, mentoring technical talent, and establishing engineering standards that enable multi-squad delivery while achieving significant cost optimization (up to 65%) without compromising reliability.
 
----
 
 ## PROFESSIONAL EXPERIENCE
 
@@ -40,8 +38,6 @@ Principal architect for an enterprise AI agent platform deployed across ~30 cust
 - Ticketopolis (Customer Support): achieved 95% automated resolution, 70% faster response times, enabling 24/7 support without headcount growth.  
 - Ekinplace (Digital Health): increased service capacity 150%, reduced wait time 50%, improved referral precision 50%.  
 
----
-
 ### Technogi — Co-Founder | Principal Architect | VP of Engineering  
 *2015 – 2024 | Mexico & UK*
 
@@ -51,21 +47,16 @@ Defined reference architectures, cloud governance standards, and platform enable
 
 Mentored engineers and technical leads through structured coaching and innovation programs, developing emerging architects and enabling transitions into technical and leadership roles.
 
----
-
 #### **Mobile + Web + Microservices Ecosystem (Dentegra / Delta Dental Mexico)**  
 - Architected and operated a customer-facing ecosystem (iOS/Android, React web, 30+ microservices) on AWS, sustaining **99.8% availability over four years** for **20,000+ active users**.  
 - Led architectural redesign achieving **~65% AWS cost reduction** while maintaining reliability and data integrity.  
 - Established production observability standards and platform enablement practices (CI/CD, infrastructure templates, golden paths).  
 
----
 
 #### **National Evaluation Platform (CENEVAL)**  
 - Architected and operated a distributed examination platform supporting **40,000+ concurrent users** under high transactional load (15–20 events per user per minute) in a federally regulated environment.  
 - Designed resilient synchronization and integrity mechanisms for high-sensitivity evaluation workflows.  
 - Implemented multi-layer observability including infrastructure, database, event streams, and business-level analytics to detect anomalous patterns.  
-
----
 
 #### **Omnichannel Content & Personalization Platform (OCESA / Ticketmaster Ecosystem)**  
 - Architected a cloud-native, serverless-enabled engagement platform designed for **100,000+ concurrent users**, sustaining burst traffic during major event releases.  
@@ -73,14 +64,10 @@ Mentored engineers and technical leads through structured coaching and innovatio
 - Implemented event ingestion pipelines powering personalization and recommendation services (Elasticsearch).  
 - Defined clean integration boundaries with external purchase systems.  
 
----
-
 #### **Startup SaaS Platforms (including Kladi and other Mexican ventures)**  
 - Designed and led implementation of multi-tenant SaaS platforms with subscription models and Stripe-based payment processing.  
 - Defined domain boundaries, tenant isolation strategies, and CI/CD enablement for scalable growth.  
 - Established cloud-native deployment patterns for secure and repeatable releases.  
-
----
 
 ### Technogi — Co-Founder | Principal Architect  
 *2012 – 2015 | Mexico*
@@ -89,8 +76,6 @@ Mentored engineers and technical leads through structured coaching and innovatio
 - Led modernization initiatives transitioning on-prem systems to cloud-native architectures.  
 - Influenced architecture standards and reference frameworks across enterprise clients.  
 
----
-
 ### Earlier Career — Software Engineer → Technical Lead  
 *2003 – 2012*
 
@@ -98,7 +83,6 @@ Mentored engineers and technical leads through structured coaching and innovatio
 - Led cross-border collaboration between Mexico and US teams.  
 - Established innovation workshops to develop engineers into technical and leadership roles.  
 
----
 
 ## TECHNICAL EXPERTISE
 
@@ -117,14 +101,12 @@ CI/CD pipelines, Infrastructure as Code, Cloud governance, Platform enablement, 
 **Data & AI Platforms:**  
 Elasticsearch, PostgreSQL, Redis, Stripe integrations, Event ingestion pipelines, RAG architectures, Tool orchestration, Secure AI deployment patterns  
 
----
 
 ## EDUCATION
 
 **B.S. in Computer Science and Technology**  
 Tecnológico de Monterrey — 2003  
 
----
 
 ## LANGUAGES
 
