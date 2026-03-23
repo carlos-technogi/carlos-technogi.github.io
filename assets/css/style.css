@@ -1,17 +1,74 @@
----
----
-
-@import "jekyll-theme-cayman";
-
-/* 🔥 Override estilo */
-
-.page-header {
-  display: none; // elimina header Cayman
+body.cv-page {
+  margin: 0;
+  background: #ffffff;
+  color: #1f2937;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
 }
 
-.main-content {
-  max-width: 800px;
-  margin: auto;
-  font-size: 18px;
-  line-height: 1.6;
+.cv-container {
+  max-width: 860px;
+  margin: 0 auto;
+  padding: 48px 32px 64px;
+  line-height: 1.65;
+  font-size: 16px;
+}
+
+.cv-page h1,
+.cv-page h2,
+.cv-page h3 {
+  color: #111827;
+  margin-top: 0;
+  font-weight: 700;
+}
+
+.cv-page h1 {
+  font-size: 2.2rem;
+  margin-bottom: 0.25rem;
+  letter-spacing: -0.02em;
+}
+
+.cv-page h2 {
+  font-size: 1.1rem;
+  margin-top: 2.5rem;
+  margin-bottom: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  border-bottom: 1px solid #e5e7eb;
+  padding-bottom: 0.4rem;
+}
+
+.cv-page h3 {
+  font-size: 1rem;
+  margin-top: 1.25rem;
+  margin-bottom: 0.35rem;
+}
+
+.cv-page p {
+  margin: 0.5rem 0 1rem;
+}
+
+.cv-page strong {
+  color: #111827;
+}
+
+.cv-page hr {
+  display: none;
+}
+
+.cv-page ul {
+  margin: 0.5rem 0 1rem 1.25rem;
+  padding: 0;
+}
+
+.cv-page li {
+  margin-bottom: 0.35rem;
+}
+
+.cv-page a {
+  color: #0f4c81;
+  text-decoration: none;
+}
+
+.cv-page a:hover {
+  text-decoration: underline;
 }
