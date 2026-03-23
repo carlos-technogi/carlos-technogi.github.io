@@ -1,0 +1,17 @@
+---
+---
+
+@import "jekyll-theme-cayman";
+
+/* 🔥 Override estilo */
+
+.page-header {
+  display: none; // elimina header Cayman
+}
+
+.main-content {
+  max-width: 800px;
+  margin: auto;
+  font-size: 18px;
+  line-height: 1.6;
+}
