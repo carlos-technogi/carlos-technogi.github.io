@@ -16,11 +16,15 @@ Co-Founder & Head of Engineering with deep hands-on architecture experience acro
 ---
 
 ## Selected Impact
-- **99.8% availability** sustained over 4 years (enterprise platform operations)
+- **~30 enterprise AI deployments** in Year 1 at BRAIAN
+- **75% reduction** in SOC incident response time (45 min → <15 min) — Banyax
+- **95% automation** of customer service queries, 70% faster response — Ticketopolis
+- **150% more simultaneous patients**, 50% less wait time — Ekinplace
+- **99.8% availability** sustained over 4 years (enterprise platform, Dentegra)
 - **~65% cloud cost reduction** through architecture + optimization program
-- **65K users** supported over 3 years on large-scale event ecosystem
-- **40K concurrent users** supported on a high-stakes evaluation platform
-- **25% cost reduction in 2 months** via cloud VDI optimization initiative
+- **65K concurrent users** on large-scale event platform at 99%+ availability
+- **40K concurrent users** on high-stakes national evaluation platform
+- **25% cost reduction in 2 months** via cloud governance initiative
 
 ---
 
@@ -36,22 +40,29 @@ Co-Founder & Head of Engineering with deep hands-on architecture experience acro
 ## Experience
 
 ### BRAIAN — Co-Founder & Head of Engineering (Nov 2024 – Present)
-- Architected and led delivery of an AI-powered platform with enterprise deployment patterns (including secure single-tenant models).
-- Built an agent-oriented architecture with retrieval workflows, tool integration, policy enforcement, monitoring, and production operations practices.
-- Owned execution end-to-end: product/requirements → architecture → implementation → release → operations.
+Enterprise AI agent platform — RAG, tool calling, policy orchestration, omni-channel deployment (WhatsApp, Instagram, web, API). Secure single-tenant model for regulated industries. ~30 deployments in Year 1.
 
-**Focus:** AI agents, platform architecture, security, observability, reliability, delivery leadership.
+- Architected agent-oriented platform with retrieval workflows, tool integration, policy enforcement, and production observability on AWS Bedrock.
+- Owned execution end-to-end: customer discovery → architecture → implementation → release → operations.
+- Served as technical advisor in every client engagement: problem discovery, PoC development, solution design, scope and risk definition, and pre-sales sessions.
+
+**Selected client outcomes:**
+- **Banyax** (cybersecurity SOC): 75% reduction in incident response time (45 min → <15 min). 5× analyst efficiency across 22K+ monitored entities. Deployed in 3 weeks.
+- **Ticketopolis** (ticketing): 95% automated customer service. 70% faster response. 24/7 multi-language support enabling US market expansion.
+- **Ekinplace** (digital health): 150% increase in simultaneous patient capacity. 50% less wait time. 80% customer satisfaction.
 
 ---
 
 ### Technogi — VP of Engineering (Jun 2015 – Oct 2024)
-- Led engineering organization growth to ~25 engineers across multiple teams.
-- Oversaw architecture and delivery across web + mobile ecosystems, cloud platforms, and long-running enterprise systems.
-- Established delivery practices and operational ownership for multiple client platforms.
+AWS-focused engineering consultancy serving enterprise clients and ISVs. Modernization programs, build-and-operate, cloud migration, full-stack product delivery.
 
-**Highlights**
-- Delivered high-availability enterprise platforms and long-term operational success.
-- Led modernization and cost optimization programs across cloud environments.
+- Scaled engineering org from 5 to 25+ engineers across 5–6 squads; owned hiring, org design, coaching, and performance management.
+- Led cloud native modernization programs for 10+ ISV clients: CI/CD adoption, containerization, AWS migration, SaaS transformation.
+- Re-architected healthcare/fintech platform (30+ microservices): **65% cost reduction**, **99.8% availability** over 4 years (~20K users).
+- Redesigned cloud governance across 2,500 AWS accounts: **25% cost reduction in 2 months**.
+- Built and operated consumer platforms: **65K concurrent users** at 99%+ availability (OCESA), **200K registered users** (Ticketmaster).
+- Led IIS → Azure AKS migration: deployment frequency from monthly to daily.
+- AWS Partner + AWS Service Delivery Program (SDP) recognition.
 
 ---
 
@@ -63,31 +74,37 @@ Co-Founder & Head of Engineering with deep hands-on architecture experience acro
 
 ## Selected Case Studies
 
+### BRAIAN — Enterprise AI Deployments (~30 in Year 1)
+- **Banyax** (cybersecurity): 75% reduction in SOC incident response time; 5× analyst efficiency; 22K+ monitored entities; deployed in 3 weeks.
+- **Ticketopolis** (ticketing): 95% automated customer service; 70% faster response; 24/7 multi-language; US market expansion.
+- **Ekinplace** (digital health): 150% more simultaneous patients; 50% less wait time; 80% satisfaction.
+
 ### Dentegra (Healthcare / Insurance) — Enterprise Platform
-- Built and operated platform ecosystem over multiple years.
+- Re-architected 30+ microservices on AWS without service disruption.
 - Achieved **~65% cloud cost reduction** and sustained **99.8% availability** over 4 years.
 
 ### OCESA (Entertainment) — Event Ecosystem (Web + Mobile)
-- Delivered and operated an event-facing ecosystem.
-- Supported **65K users** over 3 years.
+- Serverless AWS platform with event-driven recommendation engine.
+- Sustained **65K concurrent users** at 99%+ availability over 3 years.
 
 ### CENEVAL (Education / Evaluations) — High Concurrency Platform
-- Delivered platform supporting up to **40K concurrent users** under peak load.
+- Delivered platform supporting **40K concurrent users** with offline-capable distributed nodes and append-only integrity ledger.
 
 ---
 
 ## Tech (high-level)
-**AI/Agents:** RAG, orchestration, tool calling, policies, monitoring  
-**Cloud:** AWS / Azure / GCP, Kubernetes, Terraform, CI/CD  
-**Backend:** Distributed systems, APIs, event-driven architecture  
-**Observability:** Metrics, logging, tracing, SLOs  
-**Web/Mobile:** Modern web stacks + iOS/Android ecosystems
+**AI/Agents:** RAG, tool calling, policy orchestration, LangChain, AWS Bedrock, observability  
+**Cloud:** AWS (ECS, EKS, CDK, CloudFormation, Bedrock) · Azure (AKS, DevOps) · Kubernetes · Terraform · CI/CD  
+**Backend:** Distributed systems, APIs, event-driven architecture, Java, Python, Node.js  
+**Observability:** CloudWatch, Grafana, Prometheus, New Relic, SLOs  
+**Web/Mobile:** React, Next.js, Svelte, TypeScript + iOS/Android ecosystems
 
 ---
 
 ## Contact
 - Email: [carlos@braian.ai](mailto:carlos@braian.ai)  
-- GitHub: https://github.com/carlos-technogi
+- LinkedIn: [linkedin.com/in/carlos-hdz-m](https://www.linkedin.com/in/carlos-hdz-m/)  
+- GitHub: [github.com/carlos-technogi](https://github.com/carlos-technogi)
 
 <script type="application/ld+json">
 {
@@ -98,7 +115,8 @@ Co-Founder & Head of Engineering with deep hands-on architecture experience acro
   "url": "https://carlos-technogi.github.io",
   "email": "mailto:carlos@braian.ai",
   "sameAs": [
-    "https://github.com/carlos-technogi"
+    "https://github.com/carlos-technogi",
+    "https://www.linkedin.com/in/carlos-hdz-m/"
   ]
 }
 </script>
